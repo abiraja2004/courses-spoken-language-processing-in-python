@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Introduction to SpeechRecognition Python Library
+
+```yaml
+type: VideoExercise
+key: c2215db811
+xp: 50
+```
+
+`@projector_key`
+bc1a09d45f5a3931105ea89e3852664e
